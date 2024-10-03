@@ -17,6 +17,7 @@ This project is a simple and elegant calculator application that allows users to
 - HTML
 - CSS
 - JavaScript
+- Particles.js
 
 ## Installation
 
