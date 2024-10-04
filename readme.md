@@ -17,7 +17,7 @@ This project is a simple and elegant calculator application that allows users to
 - HTML
 - CSS
 - JavaScript
-- Particles.js
+- [Particles.js](https://vincentgarreau.com/particles.js/) for particle animation
 
 ## Installation
 
